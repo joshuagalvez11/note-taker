@@ -18,7 +18,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 Deployed to url
 
 ## Usage
-To save notes   
+To save notes
+Deplyed: https://protected-taiga-89097.herokuapp.com/notes
     
 ## Credits
 Joshua Galvez
